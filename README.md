@@ -2,6 +2,8 @@
 
 A simple Streamlit app to track daily health and fitness metrics.
 
+![health_fitness Image](images\health.jpg)
+
 ## Features
 
 - Input your daily:
