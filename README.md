@@ -3,10 +3,12 @@
 A simple Streamlit app to track daily health and fitness metrics.
 
 
+## streamlit link
+ **Live Demo:** [Click here to view](https://mamtajangra-health-fitness-fitness-olpnpk.streamlit.app/)
 
+
+## screenshot
 ![App Screenshot](image/health.png)
-
-
 
 ## Features
 
